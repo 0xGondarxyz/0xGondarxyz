@@ -1,13 +1,13 @@
-# 0xGondar
-
-## Security Researcher
+## Web3 Security Researcher
 
 Built full-stack applications. Now I break them.
 
 Specializing in smart contract security and protocol-level vulnerabilities. I audit codebases where mistakes cost millions.
 
+[Past findings on Sherlock](https://audits.sherlock.xyz/watson/0xgondar)
+
 ### Services
-Security audits for Web3 protocols and smart contracts.
+Available for security audits. If your protocol handles real value, let's talk.
 
 ### Contact
 [Find me on X](https://x.com/0xGondarxyz)
