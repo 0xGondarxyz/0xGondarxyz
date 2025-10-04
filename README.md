@@ -1,6 +1,6 @@
 ## Web3 Security Researcher
 
-Built full-stack applications. Now I break them.
+I used to build full-stack applications. Now I break them.
 
 Specializing in smart contract security and protocol-level vulnerabilities. I audit codebases where mistakes cost millions.
 
