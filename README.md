@@ -18,3 +18,9 @@ Muay Thai practitioner. Same principle applies: know where the weaknesses are be
 ---
 
 *"I am a great believer in luck, and I find the harder I work, the more I have of it."*
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cf56e6aa-7a3f-4d0b-bd25-28b5f08d32bb" width="450" />
+</p>
