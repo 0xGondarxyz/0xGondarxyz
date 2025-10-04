@@ -1,16 +1,20 @@
-## Hi there 👋
+# 0xGondar
 
-<!--
-**0xGondarxyz/0xGondarxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Security Researcher
 
-Here are some ideas to get you started:
+Built full-stack applications. Now I break them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Specializing in smart contract security and protocol-level vulnerabilities. I audit codebases where mistakes cost millions.
+
+### Services
+Security audits for Web3 protocols and smart contracts.
+
+### Contact
+[Find me on X](https://x.com/0xGondarxyz)
+
+### Off-chain
+Muay Thai practitioner. Same principle applies: know where the weaknesses are before someone exploits them.
+
+---
+
+*"I am a great believer in luck, and I find the harder I work, the more I have of it."*
